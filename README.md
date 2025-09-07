@@ -92,5 +92,5 @@ I enjoy working on ML models, data handling, and applying AI fundamentals to pra
 
 ---
 
-⭐ From [thejuspk07](https://github.com/thejuspk07)🙂
+⭐ From [thejuspk07](https://github.com/thejuspk07)
 
