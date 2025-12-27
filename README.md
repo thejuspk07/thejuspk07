@@ -90,8 +90,7 @@ I enjoy working on ML models, data handling, and applying AI fundamentals to pra
 - Hindi  
 - Malayalam  
 
-----
-
+---++
 ⭐ From [thejuspk07](https://github.com/thejuspk07)
 
 
