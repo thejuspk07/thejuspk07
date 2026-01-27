@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="assets/jojo.gif" 
+    src="assets/Laboratory.gif" 
     alt="Hey there! I'm Thejus PK" 
     width="100%" 
   />
