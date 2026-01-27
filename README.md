@@ -1,4 +1,4 @@
-![ Hey there! 👋 I'm Thejus PK ](assets/coding-room.gif)
+![ Hey there! 👋 I'm Thejus PK ](assets/download.gif)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
