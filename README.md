@@ -1,4 +1,4 @@
-![ Hey there! 👋 I'm Thejus PK ](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpxZmI2MGgzbzV1N3M3aGYyY2Qzd2ozdGZzb2J1dHFsd29iYzQ5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif)
+![ Hey there! 👋 I'm Thejus PK ](https://pin.it/5V6qlpkDv)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
