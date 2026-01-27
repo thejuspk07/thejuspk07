@@ -1,4 +1,4 @@
-![ Hey there! 👋 I'm Thejus PK ](https://pin.it/5V6qlpkDv)
+![ Hey there! 👋 I'm Thejus PK ](https://pin.it/4LkR6ICpP)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
