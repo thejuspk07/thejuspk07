@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="assets/coding-room.gif" 
+    src="assets/download.gif" 
     alt="Hey there! I'm Thejus PK" 
     width="100%" 
   />
