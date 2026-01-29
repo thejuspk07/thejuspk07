@@ -9,11 +9,7 @@
 <h1 align="center">Hey there! 👋 I'm Thejus PK</h1>
 
 <p align="center">
-  <b>AI & Data Science Undergraduate</b> • <b>Machine Learning Enthusiast</b>
-</p>
-
-<p align="center">
-  Passionate about turning data into insights and building intelligent solutions 🚀
+  AI & Data Science Undergraduate | Machine Learning Enthusiast
 </p>
 
 ---
@@ -21,13 +17,9 @@
 <h3>👨‍💻 About Me</h3>
 
 <p>
-I am a <b>B.Tech student in Artificial Intelligence & Data Science</b> at  
-<b>Vimal Jyothi Engineering College, Kannur</b> (2023–2027).
-</p>
-
-<p>
+I am a B.Tech student in <b>Artificial Intelligence & Data Science</b> at  
+<b>Vimal Jyothi Engineering College, Kannur (2023–2027)</b>.  
 I enjoy working with data, building machine learning models, and applying AI concepts to real-world problems.
-Currently focused on strengthening my foundations in <b>ML, data analysis, and problem solving</b>.
 </p>
 
 ---
@@ -50,13 +42,14 @@ Currently focused on strengthening my foundations in <b>ML, data analysis, and p
 
 <h3>💼 Experience</h3>
 
-<b>Machine Learning Intern</b><br/>
+<b>Machine Learning Intern</b>  
+<br/>
 <i>Neovent Innovations, Kannur</i> (Jun – Jul 2025)
 
 <ul>
-  <li>Developed and implemented machine learning models</li>
-  <li>Performed data preprocessing, cleaning, and analysis</li>
-  <li>Applied AI fundamentals to real-world problem statements</li>
+  <li>Implemented machine learning models</li>
+  <li>Performed data preprocessing and analysis</li>
+  <li>Applied AI fundamentals to practical use cases</li>
 </ul>
 
 ---
@@ -70,21 +63,21 @@ Currently focused on strengthening my foundations in <b>ML, data analysis, and p
   <li><b>Core Areas:</b> Machine Learning, Data Handling, Problem Solving</li>
 </ul>
 
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-</p>
+</div>
 
 ---
 
 <h3>📚 Certifications</h3>
 
 <ul>
-  <li>Machine Learning & AI Fundamentals — IBM, Microsoft, Wingspan</li>
-  <li>Solutions Architecture Job Simulation — Forage</li>
+  <li>Machine Learning & AI Fundamentals (IBM, Microsoft, Wingspan)</li>
+  <li>Solutions Architecture Job Simulation – Forage</li>
 </ul>
 
 ---
@@ -95,7 +88,4 @@ Currently focused on strengthening my foundations in <b>ML, data analysis, and p
 
 ---
 
-<p align="center">
-⭐ From <a href="https://github.com/thejuspk07"><b>thejuspk07</b></a>
-</p>
-
+⭐ From <a href="https://github.com/thejuspk07">thejuspk07</a>
