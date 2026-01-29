@@ -1,100 +1,83 @@
-<div align="center">
-  <img 
-    src="assets/1.gif" 
-    alt="Hey there! I'm Thejus PK" 
-    width="100%" 
-  />
-</div>
-
-<h1 align="center">Hey there! 👋 I'm Thejus PK</h1>
+<h1 align="center">Hi 👋, I'm Thejus PK</h1>
+<h3 align="center">AI & Data Science Undergraduate | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <b>AI & Data Science Undergraduate</b> • <b>Machine Learning Enthusiast</b>
-</p>
-
-<p align="center">
-  Passionate about turning data into insights and building intelligent solutions 🚀
+Passionate about data, machine learning, and building intelligent systems 🚀
 </p>
 
 ---
 
-<h3>👨‍💻 About Me</h3>
-
-<p>
-I am a <b>B.Tech student in Artificial Intelligence & Data Science</b> at  
-<b>Vimal Jyothi Engineering College, Kannur</b> (2023–2027).
-</p>
-
-<p>
-I enjoy working with data, building machine learning models, and applying AI concepts to real-world problems.
-Currently focused on strengthening my foundations in <b>ML, data analysis, and problem solving</b>.
-</p>
+### 👨‍💻 About Me
+- 🎓 B.Tech in **Artificial Intelligence & Data Science** (2023–2027)  
+- 🏫 Vimal Jyothi Engineering College, Kannur  
+- 🤖 Interested in **Machine Learning, Data Analysis & AI applications**  
+- 🌱 Currently learning **ML algorithms, Python, and real-world problem solving**
 
 ---
 
-<h3>🔗 Connect with Me</h3>
+### 🔭 What I'm Working On
+- Machine Learning projects using Python  
+- Data preprocessing & model building  
+- Improving problem-solving skills (DSA basics)
+
+---
+
+### 🧠 What I'm Learning
+- Supervised & Unsupervised ML  
+- Data handling with Python  
+- Model evaluation & optimization  
+
+---
+
+### 🚀 Featured Projects
+- **Sentiment Analysis on Tweets**  
+  Machine learning project to analyze tweet sentiments using NLP techniques.
+
+- **Iris Classification**  
+  Implemented classification models to predict iris flower species.
+
+- **AI / ML Colab Notebooks**  
+  Collection of experiments and learning notebooks related to ML concepts.
+
+---
+
+### 🛠 Skills
+- **Languages:** Python, Java, C  
+- **Database:** MySQL  
+- **Web:** HTML  
+- **Core Areas:** Machine Learning, Data Handling, Problem Solving  
 
 <p align="left">
-  <a href="https://github.com/thejuspk07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  </a>
-  <a href="https://www.linkedin.com/in/thejus-pk-459004361/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
-  <a href="mailto:thejusit6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 </p>
 
 ---
 
-<h3>💼 Experience</h3>
+### 💼 Experience
+**Machine Learning Intern**  
+*Neovent Innovations, Kannur* (Jun – Jul 2025)
 
-<b>Machine Learning Intern</b><br/>
-<i>Neovent Innovations, Kannur</i> (Jun – Jul 2025)
-
-<ul>
-  <li>Developed and implemented machine learning models</li>
-  <li>Performed data preprocessing, cleaning, and analysis</li>
-  <li>Applied AI fundamentals to real-world problem statements</li>
-</ul>
+- Worked on ML model implementation  
+- Data preprocessing and analysis  
+- Applied AI concepts to real-world use cases  
 
 ---
 
-<h3>🛠 Skills</h3>
-
-<ul>
-  <li><b>Programming:</b> Python, Java, C</li>
-  <li><b>Database:</b> MySQL</li>
-  <li><b>Web:</b> HTML</li>
-  <li><b>Core Areas:</b> Machine Learning, Data Handling, Problem Solving</li>
-</ul>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-</p>
+### 📚 Certifications
+- Machine Learning & AI Fundamentals — IBM, Microsoft, Wingspan  
+- Solutions Architecture Job Simulation — Forage  
 
 ---
 
-<h3>📚 Certifications</h3>
-
-<ul>
-  <li>Machine Learning & AI Fundamentals — IBM, Microsoft, Wingspan</li>
-  <li>Solutions Architecture Job Simulation — Forage</li>
-</ul>
+### 🌐 Connect With Me
+- GitHub: [thejuspk07](https://github.com/thejuspk07)  
+- LinkedIn: [Thejus PK](https://www.linkedin.com/in/thejus-pk-459004361/)  
+- Email: thejusit6@gmail.com  
 
 ---
 
-<h3>🌐 Languages</h3>
-
-<p>English • Hindi • Malayalam</p>
-
----
-
-<p align="center">
-⭐ From <a href="https://github.com/thejuspk07"><b>thejuspk07</b></a>
-</p>
+⭐ *Always learning. Always building.*
