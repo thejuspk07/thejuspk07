@@ -47,7 +47,7 @@ I enjoy working with data, building machine learning models, and applying AI con
 <i>Neovent Innovations, Kannur</i> (Jun – Jul 2025)
 
 <ul>
-  <li>Implemented machine learning models</li>
+  <li>Implemented machine learning model</li>
   <li>Performed data preprocessing and analysis</li>
   <li>Applied AI fundamentals to practical use cases</li>
 </ul>
