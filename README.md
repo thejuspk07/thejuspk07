@@ -1,33 +1,15 @@
 <div align="center">
-  <img 
-    src="assets/1.gif" 
-    alt="Hey there! I'm Thejus PK" 
-    width="100%" 
-  />
+  <img src="assets/1.gif" alt="Hey there! I'm Thejus PK" width="100%" />
 </div>
 
 <h1 align="center">Hey there! 👋 I'm Thejus PK</h1>
 
 <p align="center">
-  AI & Data Science Undergraduate | Machine Learning Enthusiast
+  B.Tech AI & Data Science @ VJEC '27 &nbsp;|&nbsp; ML · LSTM · Anomaly Detection · RAG &nbsp;|&nbsp; Open to Internships
 </p>
 
----
-
-<h3>👨‍💻 About Me</h3>
-
-<p>
-I am a B.Tech student in <b>Artificial Intelligence & Data Science</b> at  
-<b>Vimal Jyothi Engineering College, Kannur (2023–2027)</b>.  
-I enjoy working with data, building machine learning models, and applying AI concepts to real-world problems.
-</p>
-
----
-
-<h3>🔗 Connect with Me</h3>
-
-<p align="left">
-  <a href="https://github.com/thejuspk07" target="_blank">
+<p align="center">
+  <a href="https://github.com/thejuspk07">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
   <a href="https://www.linkedin.com/in/thejus-pk-459004361/" target="_blank">
@@ -40,35 +22,76 @@ I enjoy working with data, building machine learning models, and applying AI con
 
 ---
 
+<h3>👨‍💻 About Me</h3>
+
+<p>
+Final-year B.Tech student in <b>Artificial Intelligence & Data Science</b> at  
+<b>Vimal Jyothi Engineering College, Kannur (2023–2027)</b>.<br/>
+I build ML systems that solve real problems — from LSTM-based motor anomaly detection using Arduino sensors,  
+to predictive maintenance on NASA's turbofan dataset. Currently working toward a  
+<b>Medical RAG capstone</b> with hybrid retrieval and hallucination detection.
+</p>
+
+---
+
+<h3>🚀 Projects</h3>
+
+<table>
+  <tr>
+    <td><b>🔧 LSTM Motor Anomaly Detection</b></td>
+    <td>
+      Real-time anomaly detection on motor sensor data using LSTM networks.<br/>
+      Arduino + MPU6050 hardware integration. NASA CMAPSS dataset for RUL prediction.<br/>
+      <b>Stack:</b> Python · TensorFlow · Arduino · Jupyter
+      &nbsp;|&nbsp;
+      <a href="https://github.com/thejuspk07/LSTM-Based-Multi-Sensor-Anomaly-Detection">GitHub →</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🏥 Medical RAG System <i>(WIP)</i></b></td>
+    <td>
+      Retrieval-Augmented Generation pipeline for medical report explanation.<br/>
+      Hybrid BM25 + dense retrieval, NLI-based hallucination detection, PubMed embeddings.<br/>
+      <b>Stack:</b> Python · LangChain · FAISS · HuggingFace
+    </td>
+  </tr>
+</table>
+
+---
+
 <h3>💼 Experience</h3>
 
-<b>Machine Learning Intern</b>  
-<br/>
-<i>Neovent Innovations, Kannur</i> (Jun – Jul 2025)
+<b>Machine Learning Intern</b> — <i>Neovent Innovations, Kannur</i> &nbsp;(Jun – Jul 2025)
 
 <ul>
-  <li>Implemented machine learning model</li>
-  <li>Performed data preprocessing and analysis</li>
-  <li>Applied AI fundamentals to practical use cases</li>
+  <li>Built and trained a classification model for structured business data using scikit-learn</li>
+  <li>Cleaned and preprocessed datasets (~5k records); improved model accuracy through feature engineering</li>
+  <li>Documented model pipeline and results for internal review</li>
 </ul>
+
+> ⚠️ <i>Replace the bullets above with your actual task/model/result — even rough numbers help.</i>
 
 ---
 
 <h3>🛠 Skills</h3>
 
 <ul>
+  <li><b>ML & AI:</b> Scikit-learn, TensorFlow, Keras, LSTM, Time-Series Analysis, RAG</li>
+  <li><b>Data:</b> Pandas, NumPy, Matplotlib, Seaborn, MySQL</li>
   <li><b>Programming:</b> Python, Java, C</li>
-  <li><b>Database:</b> MySQL</li>
+  <li><b>Tools:</b> Jupyter, Git, Arduino, VS Code</li>
   <li><b>Web:</b> HTML</li>
-  <li><b>Core Areas:</b> Machine Learning, Data Handling, Problem Solving</li>
 </ul>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
 ---
@@ -76,16 +99,25 @@ I enjoy working with data, building machine learning models, and applying AI con
 <h3>📚 Certifications</h3>
 
 <ul>
-  <li>Machine Learning & AI Fundamentals (IBM, Microsoft, Wingspan)</li>
-  <li>Solutions Architecture Job Simulation – Forage</li>
+  <li>Machine Learning & AI Fundamentals — IBM, Microsoft, Wingspan</li>
+  <li>Solutions Architecture Job Simulation — Forage (AWS)</li>
 </ul>
 
 ---
 
-<h3>🌐 Languages</h3>
+<h3>📊 GitHub Stats</h3>
 
-<p>English • Hindi • Malayalam</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thejuspk07&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejuspk07&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-⭐ From <a href="https://github.com/thejuspk07">thejuspk07</a>
+<h3>🌐 Languages</h3>
+<p>English &bull; Hindi &bull; Malayalam</p>
+
+---
+
+<p align="center">⭐ From <a href="https://github.com/thejuspk07">thejuspk07</a></p>
