@@ -11,6 +11,103 @@ text, tspan {white-space: pre;}
 <rect width="1180px" height="530px" fill="black" rx="15"/>
 <g transform="translate(22,20) scale(0.42,0.88)">
 </g>
+<g id="neural-network">
+<line x1="80" y1="100" x2="230" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1" />
+<line x1="80" y1="100" x2="230" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="80" y1="100" x2="230" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="80" y1="100" x2="230" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.11" />
+<line x1="80" y1="100" x2="230" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="80" y1="100" x2="230" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="80" y1="100" x2="230" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.11" />
+<line x1="80" y1="160" x2="230" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.39" />
+<line x1="80" y1="160" x2="230" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.18" />
+<line x1="80" y1="160" x2="230" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.31" />
+<line x1="80" y1="160" x2="230" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.39" />
+<line x1="80" y1="160" x2="230" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.18" />
+<line x1="80" y1="160" x2="230" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.31" />
+<line x1="80" y1="160" x2="230" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.39" />
+<line x1="80" y1="220" x2="230" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.25" />
+<line x1="80" y1="220" x2="230" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.4" />
+<line x1="80" y1="220" x2="230" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.25" />
+<line x1="80" y1="220" x2="230" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.25" />
+<line x1="80" y1="220" x2="230" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.4" />
+<line x1="80" y1="220" x2="230" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.25" />
+<line x1="80" y1="220" x2="230" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.25" />
+<line x1="80" y1="280" x2="230" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.31" />
+<line x1="80" y1="280" x2="230" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.18" />
+<line x1="80" y1="280" x2="230" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.39" />
+<line x1="80" y1="280" x2="230" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.31" />
+<line x1="80" y1="280" x2="230" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.18" />
+<line x1="80" y1="280" x2="230" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.39" />
+<line x1="80" y1="280" x2="230" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.31" />
+<line x1="80" y1="340" x2="230" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.37" />
+<line x1="80" y1="340" x2="230" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="80" y1="340" x2="230" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.11" />
+<line x1="80" y1="340" x2="230" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="80" y1="340" x2="230" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="80" y1="340" x2="230" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1" />
+<line x1="80" y1="340" x2="230" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="230" y1="70" x2="380" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1" />
+<line x1="230" y1="70" x2="380" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="230" y1="70" x2="380" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="230" y1="70" x2="380" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.11" />
+<line x1="230" y1="120" x2="380" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.39" />
+<line x1="230" y1="120" x2="380" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.18" />
+<line x1="230" y1="120" x2="380" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.31" />
+<line x1="230" y1="120" x2="380" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.39" />
+<line x1="230" y1="170" x2="380" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.25" />
+<line x1="230" y1="170" x2="380" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.4" />
+<line x1="230" y1="170" x2="380" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.25" />
+<line x1="230" y1="170" x2="380" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.25" />
+<line x1="230" y1="220" x2="380" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.31" />
+<line x1="230" y1="220" x2="380" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.18" />
+<line x1="230" y1="220" x2="380" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.39" />
+<line x1="230" y1="220" x2="380" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.31" />
+<line x1="230" y1="270" x2="380" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.37" />
+<line x1="230" y1="270" x2="380" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="230" y1="270" x2="380" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.11" />
+<line x1="230" y1="270" x2="380" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.36" />
+<line x1="230" y1="320" x2="380" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.16" />
+<line x1="230" y1="320" x2="380" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.32" />
+<line x1="230" y1="320" x2="380" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.39" />
+<line x1="230" y1="320" x2="380" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.17" />
+<line x1="230" y1="370" x2="380" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.4" />
+<line x1="230" y1="370" x2="380" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.24" />
+<line x1="230" y1="370" x2="380" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.26" />
+<line x1="230" y1="370" x2="380" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.4" />
+<circle cx="80" cy="100" r="5" fill="#00ff88" />
+<circle cx="80" cy="100" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="80" cy="160" r="5" fill="#00ff88" />
+<circle cx="80" cy="160" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="80" cy="220" r="5" fill="#00ff88" />
+<circle cx="80" cy="220" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="80" cy="280" r="5" fill="#00ff88" />
+<circle cx="80" cy="280" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="80" cy="340" r="5" fill="#00ff88" />
+<circle cx="80" cy="340" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="230" cy="70" r="5" fill="#00ff88" />
+<circle cx="230" cy="70" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="230" cy="120" r="5" fill="#00ff88" />
+<circle cx="230" cy="120" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="230" cy="170" r="5" fill="#00ff88" />
+<circle cx="230" cy="170" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="230" cy="220" r="5" fill="#00ff88" />
+<circle cx="230" cy="220" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="230" cy="270" r="5" fill="#00ff88" />
+<circle cx="230" cy="270" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="230" cy="320" r="5" fill="#00ff88" />
+<circle cx="230" cy="320" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="230" cy="370" r="5" fill="#00ff88" />
+<circle cx="230" cy="370" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="380" cy="130" r="5" fill="#00ff88" />
+<circle cx="380" cy="130" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="380" cy="190" r="5" fill="#00ff88" />
+<circle cx="380" cy="190" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="380" cy="250" r="5" fill="#00ff88" />
+<circle cx="380" cy="250" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+<circle cx="380" cy="310" r="5" fill="#00ff88" />
+<circle cx="380" cy="310" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6" />
+</g>
 <text x="0" y="0">
 <tspan x="520" y="30" fill="#7DF9FF" fontsize="17px">Thejus@Neural-Grid</tspan> -----[========== PROFILE ==========]-----
 <tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Subject</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Thejus P K</tspan>
