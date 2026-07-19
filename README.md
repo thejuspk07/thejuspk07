@@ -6,7 +6,7 @@
   </picture>
   <br><br>
   <a href="mailto:thejuspwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=sendgrid&logoColor=00ff88" alt="Email">
+    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00ff88" alt="Email">
   </a>
   <a href="https://portfolio-cxt.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=thealgorithms&logoColor=7DF9FF" alt="Portfolio">
