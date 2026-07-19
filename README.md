@@ -1,5 +1,5 @@
 <div align="center">
   <picture>
-    <img src="thejus_dark.svg" alt="Thejus@Neural-Grid Profile">
+    <img src="thejus_dark.svg?v=1" alt="Thejus@Neural-Grid Profile">
   </picture>
 </div>
