@@ -25,10 +25,14 @@ text, tspan {white-space: pre;}
 <tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Deploy</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Flask, Streamlit, REST API</tspan>
 <tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Focus</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Deep Learning, Anomaly Detection</tspan>
 <tspan x="520" y="270" class="cc">. </tspan>
-<tspan x="520" y="290" fill="#7DF9FF">- Contact</tspan> -----[========== CONNECT ==========]-----
-<tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">thejuspwork@gmail.com</tspan>
-<tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">portfolio-cxt.pages.dev</tspan>
-<tspan x="520" y="350" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">linkedin.com/in/thejus-pk</tspan>
-<tspan x="520" y="370" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Github</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">github.com/thejus-pk</tspan>
+<tspan x="520" y="290" fill="#7DF9FF">- Projects</tspan> -----[========== ARSENAL ==========]-----
+<tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Project</tspan>.<tspan class="key">01</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">LSTM-Based Multi-Sensor Anomaly Detection</tspan>
+<tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Project</tspan>.<tspan class="key">02</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Sentiment Analysis of Tweets</tspan>
+<tspan x="520" y="350" class="cc">. </tspan>
+<tspan x="520" y="370" fill="#7DF9FF">- Contact</tspan> -----[========== CONNECT ==========]-----
+<tspan x="520" y="390" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">thejuspwork@gmail.com</tspan>
+<tspan x="520" y="410" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">portfolio-cxt.pages.dev</tspan>
+<tspan x="520" y="430" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">linkedin.com/in/thejus-pk</tspan>
+<tspan x="520" y="450" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Github</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">github.com/thejus-pk</tspan>
 </text>
 </svg>
