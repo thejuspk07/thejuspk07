@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1180" height="530" viewBox="0 0 1180 530" fontsize="15px">
+<style>
+rect {fill: black;}
+text, tspan {white-space: pre;}
+.ascii {fill: #7DF9FF;}
+.cc {fill: #888;}
+.key {fill: #00ff88; font-weight: bold;}
+.value {fill: #ffffff;}
+</style>
+<rect width="1180px" height="530px" fill="black" rx="15"/>
+<g transform="translate(22,20) scale(0.42,0.88)">
+</g>
+<text x="0" y="0">
+<tspan x="520" y="30" fill="#7DF9FF" fontsize="17px">Thejus@Neural-Grid</tspan> -----[========== PROFILE ==========]-----
+<tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Subject</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Thejus P K</tspan>
+<tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">AI &amp; ML Developer</tspan>
+<tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Origin</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Kannur, Kerala, India</tspan>
+<tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Learning : Building : Shipping</tspan>
+<tspan x="520" y="130" class="cc">. </tspan><tspan class="key">ToolChain</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Python, TensorFlow, VS Code</tspan>
+<tspan x="520" y="150" class="cc">. </tspan>
+<tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, Java, C, SQL</tspan>
+<tspan x="520" y="190" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">ML</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">TensorFlow, Keras, LSTM, NLP</tspan>
+<tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Pandas, NumPy, Scikit-learn</tspan>
+<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Deploy</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Flask, Streamlit, REST API</tspan>
+<tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Focus</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Deep Learning, Anomaly Detection</tspan>
+<tspan x="520" y="270" class="cc">. </tspan>
+<tspan x="520" y="290" fill="#7DF9FF">- Contact</tspan> -----[========== CONNECT ==========]-----
+<tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">thejuspwork@gmail.com</tspan>
+<tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">portfolio-cxt.pages.dev</tspan>
+<tspan x="520" y="350" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">linkedin.com/in/thejus-pk</tspan>
+<tspan x="520" y="370" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Github</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">github.com/thejus-pk</tspan>
+</text>
+</svg>
