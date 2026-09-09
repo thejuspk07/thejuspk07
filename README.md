@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="thejus_light_motion.gif?v=1" alt="Thejus P K — AI / ML Engineer" width="100%" />
+<img src="thejus_light_v2.svg?v=9" alt="Thejus P K — AI / ML Engineer" width="100%" />
 
 ### Building AI that works.
 
