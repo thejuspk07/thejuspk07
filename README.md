@@ -8,6 +8,12 @@ I build practical AI systems that turn ideas into useful software.
 
 `Document AI` · `Computer Vision` · `Machine Learning` · `LLM Applications` · `AI Automation`
 
+<p>
+  <a href="https://linkedin.com/in/thejus-pk"><img src="https://img.shields.io/badge/LinkedIn-Thejus%20P.%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-cxt.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="mailto:thejuspwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 </div>
 
 ---
@@ -44,10 +50,6 @@ AI systems that **see, understand, reason, and act.**
 Building AI that **understands, decides, and acts.**
 
 ---
-
-## 05 — Find me
-
-[GitHub](https://github.com/thejuspk07) · [LinkedIn](https://linkedin.com/in/thejus-pk) · [Portfolio](https://portfolio-cxt.pages.dev)
 
 <div align="center">
 
