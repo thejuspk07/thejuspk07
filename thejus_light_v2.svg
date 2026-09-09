@@ -1,74 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
   <rect width="1600" height="520" fill="#F4F1EA"/>
-
   <g stroke="#D9D5CC" stroke-width="1">
-    <path d="M40 40H1560M40 480H1560"/>
-    <path d="M40 40V480M1560 40V480"/>
-    <path d="M40 165H1560M40 365H1560"/>
-    <path d="M410 40V480"/>
-    <path d="M1165 40V480"/>
+    <path d="M40 40H1560M40 480H1560"/><path d="M40 40V480M1560 40V480"/>
+    <path d="M40 165H1560M40 365H1560"/><path d="M410 40V480M1165 40V480"/>
   </g>
-
   <rect x="40" y="40" width="115" height="5" fill="#FF4B32">
     <animate attributeName="width" values="115;170;115" dur="7s" repeatCount="indefinite"/>
   </rect>
   <rect x="1425" y="475" width="135" height="5" fill="#FF4B32">
     <animate attributeName="x" values="1425;1390;1425" dur="9s" repeatCount="indefinite"/>
   </rect>
-
   <text x="62" y="78" fill="#101114" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3.5">THEJUS PK / AI · DATA SCIENCE</text>
   <text x="1518" y="78" text-anchor="end" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.8">PROFILE / 2026</text>
-
   <text x="62" y="245" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" letter-spacing="-3">THEJUS</text>
   <text x="62" y="322" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" letter-spacing="-3">PK<tspan fill="#FF4B32">.</tspan></text>
-
   <text x="62" y="414" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="17">Practical AI. Curious engineering.</text>
   <text x="62" y="441" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif" font-size="9.5" letter-spacing="1.15">B.TECH AI &amp; DATA SCIENCE · KERALA</text>
-
   <text x="455" y="205" fill="#FF4B32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">I BUILD AI SYSTEMS</text>
   <text x="455" y="244" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="29">that turn machine-learning ideas</text>
   <text x="455" y="280" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="29">into useful software.</text>
-
   <text x="455" y="316" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif" font-size="10.5" letter-spacing="1.15">DOCUMENT AI · COMPUTER VISION · ANOMALY DETECTION</text>
   <text x="455" y="337" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif" font-size="10.5" letter-spacing="1.15">MACHINE LEARNING · LLM APPLICATIONS · AI AUTOMATION</text>
-
   <g font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="1.1">
     <text x="455" y="402" fill="#FF4B32">01</text><text x="480" y="402" fill="#101114">BUILD</text>
     <text x="545" y="402" fill="#6B6F75">02</text><text x="570" y="402" fill="#101114">MEASURE</text>
     <text x="650" y="402" fill="#6B6F75">03</text><text x="675" y="402" fill="#101114">ITERATE</text>
     <text x="755" y="402" fill="#6B6F75">04</text><text x="780" y="402" fill="#101114">SHIP</text>
   </g>
-
-  <!-- Fluid AI mark: slow breathing, drifting and rotation -->
+  <!-- Smooth organic motion: no mechanical rotation -->
   <g transform="translate(1360 245)">
-    <animateTransform attributeName="transform" type="translate" values="1360 245;1360 239;1360 245;1360 251;1360 245" dur="10s" repeatCount="indefinite"/>
-
+    <animateTransform attributeName="transform" type="translate" values="1360 245;1352 238;1364 248;1371 242;1360 245" dur="12s" repeatCount="indefinite"/>
     <g>
-      <animateTransform attributeName="transform" type="rotate" values="0;5;-4;0" dur="13s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="-2;2;-1;2;-2" dur="18s" repeatCount="indefinite"/>
       <rect x="-62" y="-62" width="124" height="124" fill="none" stroke="#101114" stroke-width="2" transform="rotate(45)"/>
     </g>
-
     <circle cx="0" cy="0" r="38" fill="#FF4B32">
-      <animate attributeName="r" values="38;42;38;35;38" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="38;43;39;35;38" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".92;1;.94;1;.92" dur="8s" repeatCount="indefinite"/>
     </circle>
-
     <circle cx="14" cy="-13" r="7" fill="#F4F1EA">
-      <animateTransform attributeName="transform" type="translate" values="0 0;4 -3;0 -5;-4 -1;0 0" dur="8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;5 -2;2 -5;-4 -2;0 0" dur="9s" repeatCount="indefinite"/>
     </circle>
-
-    <circle cx="-78" cy="0" r="3" fill="#FF4B32">
-      <animate attributeName="cy" values="0;-8;0;7;0" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.45;1;0.45" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="78" cy="0" r="3" fill="#FF4B32">
-      <animate attributeName="cy" values="0;7;0;-8;0" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.45;1" dur="7s" repeatCount="indefinite"/>
-    </circle>
-
-    <path d="M-106 0H-83M83 0H106" stroke="#101114" stroke-width="2">
-      <animate attributeName="d" values="M-106 0H-83M83 0H106;M-112 0H-83M83 0H112;M-106 0H-83M83 0H106" dur="9s" repeatCount="indefinite"/>
-    </path>
+    <circle cx="-78" cy="0" r="3" fill="#FF4B32"><animate attributeName="cy" values="0;-10;0;8;0" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;1;.45;1;.35" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="78" cy="0" r="3" fill="#FF4B32"><animate attributeName="cy" values="0;8;0;-10;0" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.4;1;.45;1" dur="8s" repeatCount="indefinite"/></circle>
+    <path d="M-106 0H-83M83 0H106" stroke="#101114" stroke-width="2"><animate attributeName="d" values="M-106 0H-83M83 0H106;M-112 0H-83M83 0H112;M-104 0H-83M83 0H104;M-106 0H-83M83 0H106" dur="11s" repeatCount="indefinite"/></path>
   </g>
-
   <text x="1518" y="444" text-anchor="end" fill="#6B6F75" font-family="monospace" font-size="9">THEJUSPK07 / BUILD · SHIP · LEARN</text>
 </svg>
