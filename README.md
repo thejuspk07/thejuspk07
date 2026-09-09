@@ -4,7 +4,7 @@
 
 ### AI / ML Engineer · Intelligent Systems · Applied AI
 
-I build practical AI systems that turn complex ideas into usable software.
+I build practical AI systems that turn ideas into useful software.
 
 `Document AI` · `Computer Vision` · `Deep Learning` · `LLM Applications` · `AI Automation`
 
@@ -29,8 +29,7 @@ I build practical AI systems that turn complex ideas into usable software.
 
 ## 01 — What I build
 
-I work where **AI meets real software engineering** — building systems that can
-**see, understand, reason and act**.
+AI systems that **see, understand, reason, and act**.
 
 `Document Intelligence` · `Computer Vision` · `ML / DL` · `NLP` · `LLMs` · `Automation`
 
@@ -92,9 +91,7 @@ I work where **AI meets real software engineering** — building systems that ca
 
 **Multimodal AI → AI Agents → Intelligent Automation → Production Systems**
 
-I'm interested in building AI that doesn't just predict —
-
-**it understands, decides, and does.**
+Building AI that **understands, decides, and acts.**
 
 ---
 
