@@ -2,11 +2,9 @@
 
 <img src="thejus_light_v2.svg?v=9" alt="Thejus P K — AI / ML Engineer" width="100%" />
 
-### AI / ML Engineer · Intelligent Systems · Applied AI
+### Building AI that works.
 
-I build practical AI systems that turn ideas into useful software.
-
-`Document AI` · `Computer Vision` · `Machine Learning` · `LLM Applications` · `AI Automation`
+`Document AI` · `Computer Vision` · `Machine Learning` · `LLMs` · `Automation`
 
 <p>
   <a href="https://linkedin.com/in/thejus-pk"><img src="https://img.shields.io/badge/LinkedIn-Thejus%20P.%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
