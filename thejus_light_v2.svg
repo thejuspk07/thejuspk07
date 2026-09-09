@@ -1,74 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
-  <rect width="1600" height="520" fill="#F4F1EA"/>
+<defs>
+  <filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
+  <radialGradient id="orb"><stop offset="0" stop-color="#FF704F"/><stop offset=".55" stop-color="#FF4B32"/><stop offset="1" stop-color="#FF4B32" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="520" fill="#F4F1EA"/>
+<g stroke="#D9D5CC" stroke-width="1"><path d="M40 40H1560M40 480H1560M40 40V480M1560 40V480M40 165H1560M40 365H1560M410 40V480M1165 40V480"/></g>
+<text x="62" y="78" fill="#101114" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3.5">THEJUS PK / AI · DATA SCIENCE</text>
+<text x="1518" y="78" text-anchor="end" fill="#6B6F75" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.8">PROFILE / 2026</text>
+<text x="62" y="245" fill="#101114" font-family="Georgia,serif" font-size="78" font-weight="700" letter-spacing="-3">THEJUS</text>
+<text x="62" y="322" fill="#101114" font-family="Georgia,serif" font-size="78" font-weight="700" letter-spacing="-3">PK<tspan fill="#FF4B32">.</tspan></text>
+<text x="62" y="414" fill="#101114" font-family="Georgia,serif" font-size="17">Practical AI. Curious engineering.</text>
+<text x="62" y="441" fill="#6B6F75" font-family="Arial,sans-serif" font-size="9.5" letter-spacing="1.15">B.TECH AI &amp; DATA SCIENCE · KERALA</text>
 
-  <g stroke="#D9D5CC" stroke-width="1">
-    <path d="M40 40H1560M40 480H1560"/>
-    <path d="M40 40V480M1560 40V480"/>
-    <path d="M40 165H1560M40 365H1560"/>
-    <path d="M410 40V480"/>
-    <path d="M1165 40V480"/>
-  </g>
+<!-- Claude-like fluid field: overlapping organic blobs continuously morph -->
+<g opacity=".95">
+  <ellipse cx="1360" cy="260" rx="120" ry="90" fill="url(#orb)" filter="url(#soft)" opacity=".45">
+    <animate attributeName="cx" values="1360;1330;1365;1392;1360" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="260;235;270;250;260" dur="13s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="120;150;105;135;120" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="90;110;75;105;90" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <path d="M1280 260 C1290 180 1370 175 1435 225 C1490 270 1420 345 1350 335 C1285 328 1255 300 1280 260Z" fill="#FF4B32" opacity=".92">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite" values="M1280 260 C1290 180 1370 175 1435 225 C1490 270 1420 345 1350 335 C1285 328 1255 300 1280 260Z;M1300 250 C1270 205 1340 165 1415 205 C1480 240 1470 315 1395 340 C1330 360 1280 315 1300 250Z;M1275 270 C1300 190 1390 190 1450 245 C1480 290 1400 350 1335 325 C1280 310 1255 300 1275 270Z;M1280 260 C1290 180 1370 175 1435 225 C1490 270 1420 345 1350 335 C1285 328 1255 300 1280 260Z"/>
+  </path>
+  <path d="M1310 245 C1340 205 1380 205 1415 235 C1440 260 1420 300 1385 310 C1340 320 1300 285 1310 245Z" fill="#F4F1EA" opacity=".9">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M1310 245 C1340 205 1380 205 1415 235 C1440 260 1420 300 1385 310 C1340 320 1300 285 1310 245Z;M1325 235 C1360 220 1405 215 1425 250 C1440 285 1400 315 1360 305 C1320 295 1305 265 1325 235Z;M1310 245 C1340 205 1380 205 1415 235 C1440 260 1420 300 1385 310 C1340 320 1300 285 1310 245Z"/>
+  </path>
+</g>
 
-  <rect x="40" y="40" width="115" height="5" fill="#FF4B32">
-    <animate attributeName="width" values="115;170;115" dur="7s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="1425" y="475" width="135" height="5" fill="#FF4B32">
-    <animate attributeName="x" values="1425;1390;1425" dur="9s" repeatCount="indefinite"/>
-  </rect>
-
-  <text x="62" y="78" fill="#101114" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3.5">THEJUS PK / AI · DATA SCIENCE</text>
-  <text x="1518" y="78" text-anchor="end" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.8">PROFILE / 2026</text>
-
-  <text x="62" y="245" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" letter-spacing="-3">THEJUS</text>
-  <text x="62" y="322" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" letter-spacing="-3">PK<tspan fill="#FF4B32">.</tspan></text>
-
-  <text x="62" y="414" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="17">Practical AI. Curious engineering.</text>
-  <text x="62" y="441" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif" font-size="9.5" letter-spacing="1.15">B.TECH AI &amp; DATA SCIENCE · KERALA</text>
-
-  <text x="455" y="205" fill="#FF4B32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">I BUILD AI SYSTEMS</text>
-  <text x="455" y="244" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="29">that turn machine-learning ideas</text>
-  <text x="455" y="280" fill="#101114" font-family="Georgia, 'Times New Roman', serif" font-size="29">into useful software.</text>
-
-  <text x="455" y="316" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif" font-size="10.5" letter-spacing="1.15">DOCUMENT AI · COMPUTER VISION · ANOMALY DETECTION</text>
-  <text x="455" y="337" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif" font-size="10.5" letter-spacing="1.15">MACHINE LEARNING · LLM APPLICATIONS · AI AUTOMATION</text>
-
-  <g font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="1.1">
-    <text x="455" y="402" fill="#FF4B32">01</text><text x="480" y="402" fill="#101114">BUILD</text>
-    <text x="545" y="402" fill="#6B6F75">02</text><text x="570" y="402" fill="#101114">MEASURE</text>
-    <text x="650" y="402" fill="#6B6F75">03</text><text x="675" y="402" fill="#101114">ITERATE</text>
-    <text x="755" y="402" fill="#6B6F75">04</text><text x="780" y="402" fill="#101114">SHIP</text>
-  </g>
-
-  <!-- Fluid AI mark: slow breathing, drifting and rotation -->
-  <g transform="translate(1360 245)">
-    <animateTransform attributeName="transform" type="translate" values="1360 245;1360 239;1360 245;1360 251;1360 245" dur="10s" repeatCount="indefinite"/>
-
-    <g>
-      <animateTransform attributeName="transform" type="rotate" values="0;5;-4;0" dur="13s" repeatCount="indefinite"/>
-      <rect x="-62" y="-62" width="124" height="124" fill="none" stroke="#101114" stroke-width="2" transform="rotate(45)"/>
-    </g>
-
-    <circle cx="0" cy="0" r="38" fill="#FF4B32">
-      <animate attributeName="r" values="38;42;38;35;38" dur="7s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="14" cy="-13" r="7" fill="#F4F1EA">
-      <animateTransform attributeName="transform" type="translate" values="0 0;4 -3;0 -5;-4 -1;0 0" dur="8s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="-78" cy="0" r="3" fill="#FF4B32">
-      <animate attributeName="cy" values="0;-8;0;7;0" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.45;1;0.45" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="78" cy="0" r="3" fill="#FF4B32">
-      <animate attributeName="cy" values="0;7;0;-8;0" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.45;1" dur="7s" repeatCount="indefinite"/>
-    </circle>
-
-    <path d="M-106 0H-83M83 0H106" stroke="#101114" stroke-width="2">
-      <animate attributeName="d" values="M-106 0H-83M83 0H106;M-112 0H-83M83 0H112;M-106 0H-83M83 0H106" dur="9s" repeatCount="indefinite"/>
-    </path>
-  </g>
-
-  <text x="1518" y="444" text-anchor="end" fill="#6B6F75" font-family="monospace" font-size="9">THEJUSPK07 / BUILD · SHIP · LEARN</text>
+<text x="455" y="205" fill="#FF4B32" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">I BUILD AI SYSTEMS</text>
+<text x="455" y="244" fill="#101114" font-family="Georgia,serif" font-size="29">that turn machine-learning ideas</text>
+<text x="455" y="280" fill="#101114" font-family="Georgia,serif" font-size="29">into useful software.</text>
+<text x="455" y="316" fill="#6B6F75" font-family="Arial,sans-serif" font-size="10.5" letter-spacing="1.15">DOCUMENT AI · COMPUTER VISION · ANOMALY DETECTION</text>
+<text x="455" y="337" fill="#6B6F75" font-family="Arial,sans-serif" font-size="10.5" letter-spacing="1.15">MACHINE LEARNING · LLM APPLICATIONS · AI AUTOMATION</text>
+<g font-family="Arial,sans-serif" font-size="9" letter-spacing="1.1"><text x="455" y="402" fill="#FF4B32">01</text><text x="480" y="402">BUILD</text><text x="545" y="402" fill="#6B6F75">02</text><text x="570" y="402">MEASURE</text><text x="650" y="402" fill="#6B6F75">03</text><text x="675" y="402">ITERATE</text><text x="755" y="402" fill="#6B6F75">04</text><text x="780" y="402">SHIP</text></g>
+<text x="1518" y="444" text-anchor="end" fill="#6B6F75" font-family="monospace" font-size="9">THEJUSPK07 / BUILD · SHIP · LEARN</text>
 </svg>
