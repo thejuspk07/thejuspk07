@@ -1,143 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1180" height="530" viewBox="0 0 1180 530" fontsize="15px">
-<style>
-rect {fill: black;}
-text, tspan {white-space: pre;}
-.ascii {fill: #7DF9FF;}
-.cc {fill: #888;}
-.key {fill: #00ff88; font-weight: bold;}
-.value {fill: #ffffff;}
-
-</style>
-<rect width="1180px" height="530px" fill="black" rx="15"/>
-<g transform="translate(22,20) scale(0.42,0.88)">
-</g>
-<g id="neural-network" font-family="ConsolasFallback,Consolas,monospace">
-<line x1="100" y1="100" x2="250" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.2s" begin="1.0s" repeatCount="indefinite" /></line>
-<line x1="100" y1="100" x2="250" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.87;0.27" dur="2.6s" begin="2.0s" repeatCount="indefinite" /></line>
-<line x1="100" y1="100" x2="250" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.87;0.27" dur="4.3s" begin="2.7s" repeatCount="indefinite" /></line>
-<line x1="100" y1="100" x2="250" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.1s" begin="0.9s" repeatCount="indefinite" /></line>
-<line x1="100" y1="100" x2="250" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.87;0.27" dur="4.2s" begin="1.4s" repeatCount="indefinite" /></line>
-<line x1="100" y1="100" x2="250" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.28"><animate attributeName="opacity" values="0.28;0.88;0.28" dur="4.2s" begin="2.6s" repeatCount="indefinite" /></line>
-<line x1="100" y1="100" x2="250" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.11"><animate attributeName="opacity" values="0.11;0.71;0.11" dur="4.0s" begin="0.3s" repeatCount="indefinite" /></line>
-<line x1="100" y1="160" x2="250" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.29"><animate attributeName="opacity" values="0.29;0.8899999999999999;0.29" dur="2.1s" begin="2.6s" repeatCount="indefinite" /></line>
-<line x1="100" y1="160" x2="250" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.15"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="4.9s" begin="1.9s" repeatCount="indefinite" /></line>
-<line x1="100" y1="160" x2="250" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.84;0.24" dur="3.4s" begin="0.0s" repeatCount="indefinite" /></line>
-<line x1="100" y1="160" x2="250" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.29"><animate attributeName="opacity" values="0.29;0.8899999999999999;0.29" dur="2.7s" begin="2.3s" repeatCount="indefinite" /></line>
-<line x1="100" y1="160" x2="250" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.15"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="4.0s" begin="1.5s" repeatCount="indefinite" /></line>
-<line x1="100" y1="160" x2="250" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.84;0.24" dur="3.1s" begin="1.7s" repeatCount="indefinite" /></line>
-<line x1="100" y1="160" x2="250" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.29"><animate attributeName="opacity" values="0.29;0.8899999999999999;0.29" dur="3.5s" begin="2.2s" repeatCount="indefinite" /></line>
-<line x1="100" y1="220" x2="250" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.7s" begin="0.3s" repeatCount="indefinite" /></line>
-<line x1="100" y1="220" x2="250" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8999999999999999;0.3" dur="2.4s" begin="1.1s" repeatCount="indefinite" /></line>
-<line x1="100" y1="220" x2="250" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="4.6s" begin="0.9s" repeatCount="indefinite" /></line>
-<line x1="100" y1="220" x2="250" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.9s" begin="2.3s" repeatCount="indefinite" /></line>
-<line x1="100" y1="220" x2="250" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8999999999999999;0.3" dur="3.4s" begin="1.7s" repeatCount="indefinite" /></line>
-<line x1="100" y1="220" x2="250" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.9s" begin="2.8s" repeatCount="indefinite" /></line>
-<line x1="100" y1="220" x2="250" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.8s" begin="2.2s" repeatCount="indefinite" /></line>
-<line x1="100" y1="280" x2="250" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.84;0.24" dur="2.4s" begin="2.2s" repeatCount="indefinite" /></line>
-<line x1="100" y1="280" x2="250" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.16"><animate attributeName="opacity" values="0.16;0.76;0.16" dur="3.8s" begin="1.3s" repeatCount="indefinite" /></line>
-<line x1="100" y1="280" x2="250" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.29"><animate attributeName="opacity" values="0.29;0.8899999999999999;0.29" dur="4.5s" begin="1.3s" repeatCount="indefinite" /></line>
-<line x1="100" y1="280" x2="250" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.84;0.24" dur="3.2s" begin="0.1s" repeatCount="indefinite" /></line>
-<line x1="100" y1="280" x2="250" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.15"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="3.7s" begin="2.8s" repeatCount="indefinite" /></line>
-<line x1="100" y1="280" x2="250" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.29"><animate attributeName="opacity" values="0.29;0.8899999999999999;0.29" dur="2.7s" begin="2.4s" repeatCount="indefinite" /></line>
-<line x1="100" y1="280" x2="250" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.84;0.24" dur="2.4s" begin="1.2s" repeatCount="indefinite" /></line>
-<line x1="100" y1="340" x2="250" y2="70" stroke="#7DF9FF" stroke-width="1.5" opacity="0.28"><animate attributeName="opacity" values="0.28;0.88;0.28" dur="4.5s" begin="0.5s" repeatCount="indefinite" /></line>
-<line x1="100" y1="340" x2="250" y2="120" stroke="#7DF9FF" stroke-width="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.87;0.27" dur="3.3s" begin="3.0s" repeatCount="indefinite" /></line>
-<line x1="100" y1="340" x2="250" y2="170" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.0s" begin="0.7s" repeatCount="indefinite" /></line>
-<line x1="100" y1="340" x2="250" y2="220" stroke="#7DF9FF" stroke-width="1.5" opacity="0.28"><animate attributeName="opacity" values="0.28;0.88;0.28" dur="3.2s" begin="0.9s" repeatCount="indefinite" /></line>
-<line x1="100" y1="340" x2="250" y2="270" stroke="#7DF9FF" stroke-width="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.87;0.27" dur="2.3s" begin="0.6s" repeatCount="indefinite" /></line>
-<line x1="100" y1="340" x2="250" y2="320" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.7s" begin="0.7s" repeatCount="indefinite" /></line>
-<line x1="100" y1="340" x2="250" y2="370" stroke="#7DF9FF" stroke-width="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.87;0.27" dur="3.5s" begin="0.9s" repeatCount="indefinite" /></line>
-<line x1="250" y1="70" x2="400" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.4s" begin="2.1s" repeatCount="indefinite" /></line>
-<line x1="250" y1="70" x2="400" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.87;0.27" dur="3.9s" begin="0.7s" repeatCount="indefinite" /></line>
-<line x1="250" y1="70" x2="400" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.87;0.27" dur="2.7s" begin="1.1s" repeatCount="indefinite" /></line>
-<line x1="250" y1="70" x2="400" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.1s" begin="0.2s" repeatCount="indefinite" /></line>
-<line x1="250" y1="120" x2="400" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.29"><animate attributeName="opacity" values="0.29;0.8899999999999999;0.29" dur="2.4s" begin="1.2s" repeatCount="indefinite" /></line>
-<line x1="250" y1="120" x2="400" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.15"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="3.9s" begin="0.8s" repeatCount="indefinite" /></line>
-<line x1="250" y1="120" x2="400" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.84;0.24" dur="3.7s" begin="2.2s" repeatCount="indefinite" /></line>
-<line x1="250" y1="120" x2="400" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.29"><animate attributeName="opacity" values="0.29;0.8899999999999999;0.29" dur="3.8s" begin="0.8s" repeatCount="indefinite" /></line>
-<line x1="250" y1="170" x2="400" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.5s" begin="2.6s" repeatCount="indefinite" /></line>
-<line x1="250" y1="170" x2="400" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8999999999999999;0.3" dur="2.3s" begin="0.5s" repeatCount="indefinite" /></line>
-<line x1="250" y1="170" x2="400" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.1s" begin="0.3s" repeatCount="indefinite" /></line>
-<line x1="250" y1="170" x2="400" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.2"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="4.7s" begin="1.2s" repeatCount="indefinite" /></line>
-<line x1="250" y1="220" x2="400" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.84;0.24" dur="4.7s" begin="2.1s" repeatCount="indefinite" /></line>
-<line x1="250" y1="220" x2="400" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.16"><animate attributeName="opacity" values="0.16;0.76;0.16" dur="3.7s" begin="1.0s" repeatCount="indefinite" /></line>
-<line x1="250" y1="220" x2="400" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.29"><animate attributeName="opacity" values="0.29;0.8899999999999999;0.29" dur="3.2s" begin="0.2s" repeatCount="indefinite" /></line>
-<line x1="250" y1="220" x2="400" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.24"><animate attributeName="opacity" values="0.24;0.84;0.24" dur="3.0s" begin="0.8s" repeatCount="indefinite" /></line>
-<line x1="250" y1="270" x2="400" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.28"><animate attributeName="opacity" values="0.28;0.88;0.28" dur="2.5s" begin="0.2s" repeatCount="indefinite" /></line>
-<line x1="250" y1="270" x2="400" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.27"><animate attributeName="opacity" values="0.27;0.87;0.27" dur="4.7s" begin="1.7s" repeatCount="indefinite" /></line>
-<line x1="250" y1="270" x2="400" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.1"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.0s" begin="1.9s" repeatCount="indefinite" /></line>
-<line x1="250" y1="270" x2="400" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.28"><animate attributeName="opacity" values="0.28;0.88;0.28" dur="4.6s" begin="0.5s" repeatCount="indefinite" /></line>
-<line x1="250" y1="320" x2="400" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.14"><animate attributeName="opacity" values="0.14;0.74;0.14" dur="3.5s" begin="2.0s" repeatCount="indefinite" /></line>
-<line x1="250" y1="320" x2="400" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.25"><animate attributeName="opacity" values="0.25;0.85;0.25" dur="2.5s" begin="1.0s" repeatCount="indefinite" /></line>
-<line x1="250" y1="320" x2="400" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.29"><animate attributeName="opacity" values="0.29;0.8899999999999999;0.29" dur="4.3s" begin="1.9s" repeatCount="indefinite" /></line>
-<line x1="250" y1="320" x2="400" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.15"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="3.3s" begin="3.0s" repeatCount="indefinite" /></line>
-<line x1="250" y1="370" x2="400" y2="130" stroke="#7DF9FF" stroke-width="1.5" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8999999999999999;0.3" dur="3.3s" begin="0.7s" repeatCount="indefinite" /></line>
-<line x1="250" y1="370" x2="400" y2="190" stroke="#7DF9FF" stroke-width="1.5" opacity="0.19"><animate attributeName="opacity" values="0.19;0.79;0.19" dur="4.6s" begin="1.7s" repeatCount="indefinite" /></line>
-<line x1="250" y1="370" x2="400" y2="250" stroke="#7DF9FF" stroke-width="1.5" opacity="0.21"><animate attributeName="opacity" values="0.21;0.8099999999999999;0.21" dur="4.8s" begin="1.1s" repeatCount="indefinite" /></line>
-<line x1="250" y1="370" x2="400" y2="310" stroke="#7DF9FF" stroke-width="1.5" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8999999999999999;0.3" dur="2.7s" begin="0.3s" repeatCount="indefinite" /></line>
-<circle cx="100" cy="100" r="5" fill="#00ff88" />
-<circle cx="100" cy="100" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.5s" begin="0.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.5s" begin="0.8s" repeatCount="indefinite" /></circle>
-<circle cx="100" cy="160" r="5" fill="#00ff88" />
-<circle cx="100" cy="160" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="1.8s" begin="0.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="1.8s" begin="0.4s" repeatCount="indefinite" /></circle>
-<circle cx="100" cy="220" r="5" fill="#00ff88" />
-<circle cx="100" cy="220" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.3s" begin="0.3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.3s" begin="0.3s" repeatCount="indefinite" /></circle>
-<circle cx="100" cy="280" r="5" fill="#00ff88" />
-<circle cx="100" cy="280" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.0s" begin="0.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.0s" begin="0.6s" repeatCount="indefinite" /></circle>
-<circle cx="100" cy="340" r="5" fill="#00ff88" />
-<circle cx="100" cy="340" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="1.6s" begin="1.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="1.6s" begin="1.5s" repeatCount="indefinite" /></circle>
-<circle cx="250" cy="70" r="5" fill="#00ff88" />
-<circle cx="250" cy="70" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="1.6s" begin="1.3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="1.6s" begin="1.3s" repeatCount="indefinite" /></circle>
-<circle cx="250" cy="120" r="5" fill="#00ff88" />
-<circle cx="250" cy="120" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="1.7s" begin="0.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="1.7s" begin="0.9s" repeatCount="indefinite" /></circle>
-<circle cx="250" cy="170" r="5" fill="#00ff88" />
-<circle cx="250" cy="170" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="1.7s" begin="1.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="1.7s" begin="1.9s" repeatCount="indefinite" /></circle>
-<circle cx="250" cy="220" r="5" fill="#00ff88" />
-<circle cx="250" cy="220" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.3s" begin="1.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.3s" begin="1.9s" repeatCount="indefinite" /></circle>
-<circle cx="250" cy="270" r="5" fill="#00ff88" />
-<circle cx="250" cy="270" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="1.9s" begin="0.3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="1.9s" begin="0.3s" repeatCount="indefinite" /></circle>
-<circle cx="250" cy="320" r="5" fill="#00ff88" />
-<circle cx="250" cy="320" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.4s" begin="0.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" begin="0.4s" repeatCount="indefinite" /></circle>
-<circle cx="250" cy="370" r="5" fill="#00ff88" />
-<circle cx="250" cy="370" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.6s" begin="0.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.6s" begin="0.4s" repeatCount="indefinite" /></circle>
-<circle cx="400" cy="130" r="5" fill="#00ff88" />
-<circle cx="400" cy="130" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.2s" begin="1.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.2s" begin="1.8s" repeatCount="indefinite" /></circle>
-<circle cx="400" cy="190" r="5" fill="#00ff88" />
-<circle cx="400" cy="190" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.6s" begin="0.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.6s" begin="0.6s" repeatCount="indefinite" /></circle>
-<circle cx="400" cy="250" r="5" fill="#00ff88" />
-<circle cx="400" cy="250" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.4s" begin="0.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" begin="0.8s" repeatCount="indefinite" /></circle>
-<circle cx="400" cy="310" r="5" fill="#00ff88" />
-<circle cx="400" cy="310" r="9" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="9;12;9" dur="2.8s" begin="1.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.6;0;0.6" dur="2.8s" begin="1.7s" repeatCount="indefinite" /></circle>
-
-<text x="30" y="45" fill="#7DF9FF" font-size="12px" opacity="0.8">[ NEURAL_CORE :: ACTIVE ]</text>
-<text x="120" y="420" fill="#00ff88" font-size="12px" opacity="0.6" font-style="italic">f(x) = 1 / (1 + e^-x)</text>
-<text x="220" y="40" fill="#00ff88" font-size="12px" opacity="0.6" font-style="italic">L = -1/N ∑ (y_i log(ŷ_i))</text>
-<text x="270" y="450" fill="#00ff88" font-size="12px" opacity="0.6" font-style="italic">a^(l) = g(W^(l) a^(l-1) + b^(l))</text>
-<text x="40" y="400" fill="#7DF9FF" font-size="10px" opacity="0.5">C_t = f_t * C_{t-1} + i_t * 	ilde{C}_t</text>
-
-</g>
-<text x="0" y="0">
-<tspan x="520" y="30" fill="#7DF9FF" fontsize="17px">Thejus@Neural-Grid</tspan> -----[========== PROFILE ==========]-----
-<tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Subject</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Thejus P K</tspan>
-<tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">AI &amp; ML Developer</tspan>
-<tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Origin</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Kannur, Kerala, India</tspan>
-<tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Learning : Building : Shipping</tspan>
-<tspan x="520" y="130" class="cc">. </tspan><tspan class="key">ToolChain</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Python, TensorFlow, VS Code</tspan>
-<tspan x="520" y="150" class="cc">. </tspan>
-<tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, Java, C, SQL</tspan>
-<tspan x="520" y="190" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">ML</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">TensorFlow, Keras, LSTM, NLP</tspan>
-<tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Pandas, NumPy, Scikit-learn</tspan>
-<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Deploy</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Flask, Streamlit, REST API</tspan>
-<tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Focus</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Deep Learning, Anomaly Detection</tspan>
-<tspan x="520" y="270" class="cc">. </tspan>
-<tspan x="520" y="290" fill="#7DF9FF">- Projects</tspan> -----[========== ARSENAL ==========]-----
-<tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Project</tspan>.<tspan class="key">01</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">LSTM-Based Multi-Sensor Anomaly Detection</tspan>
-<tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Project</tspan>.<tspan class="key">02</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Sentiment Analysis of Tweets</tspan>
-<tspan x="520" y="350" class="cc">. </tspan>
-<tspan x="520" y="370" fill="#7DF9FF">- Contact</tspan> -----[========== CONNECT ==========]-----
-<tspan x="520" y="390" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">thejuspwork@gmail.com</tspan>
-<tspan x="520" y="410" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">portfolio-cxt.pages.dev</tspan>
-<tspan x="520" y="430" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">linkedin.com/in/thejus-pk</tspan>
-<tspan x="520" y="450" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Github</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">github.com/thejus-pk</tspan>
-</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="530" viewBox="0 0 1180 530" role="img" aria-labelledby="title desc">
+  <title id="title">Thejus P K — AI and ML Engineer</title>
+  <desc id="desc">An animated editorial profile banner for Thejus P K.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f6f3ed; }
+      .grid { stroke: #d8d2c7; stroke-width: 1; }
+      .ink { fill: #111111; }
+      .muted { fill: #57534e; }
+      .accent { fill: #ff4d34; }
+      .mono { font-family: 'Courier New', monospace; }
+      .serif { font-family: Georgia, 'Times New Roman', serif; }
+      .sans { font-family: Arial, Helvetica, sans-serif; }
+    </style>
+  </defs>
+  <rect class="bg" width="1180" height="530"/>
+  <rect x="42" y="35" width="1096" height="460" fill="none" class="grid"/>
+  <line x1="365" y1="35" x2="365" y2="495" class="grid"/>
+  <line x1="775" y1="35" x2="775" y2="495" class="grid"/>
+  <line x1="42" y1="116" x2="1138" y2="116" class="grid"/>
+  <line x1="42" y1="350" x2="1138" y2="350" class="grid"/>
+  <rect x="42" y="35" width="88" height="5" class="accent">
+    <animate attributeName="width" values="88;160;88" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="42" y="70" class="mono ink" font-size="13" letter-spacing="1.6">THEJUS P K / AI · ML · SYSTEMS</text>
+  <text x="1034" y="70" class="mono muted" font-size="11">PROFILE / 2026</text>
+  <text x="42" y="185" class="serif ink" font-size="74" font-weight="700">THEJUS</text>
+  <text x="42" y="260" class="serif ink" font-size="74" font-weight="700">P K<tspan class="accent">.</tspan></text>
+  <text x="404" y="182" class="sans ink" font-size="15" font-weight="700">I BUILD PRACTICAL AI</text>
+  <text x="404" y="222" class="serif ink" font-size="29">that turns complex ideas</text>
+  <text x="404" y="255" class="serif ink" font-size="29">into useful systems.</text>
+  <text x="404" y="295" class="sans muted" font-size="12" letter-spacing=".4">DOCUMENT AI / COMPUTER VISION / LLM APPLICATIONS</text>
+  <text x="404" y="316" class="sans muted" font-size="12" letter-spacing=".4">MACHINE LEARNING / AUTOMATION / SOFTWARE ENGINEERING</text>
+  <text x="404" y="410" class="mono muted" font-size="12">01</text><text x="454" y="410" class="mono ink" font-size="12" font-weight="700">BUILD</text>
+  <text x="540" y="410" class="mono muted" font-size="12">02</text><text x="590" y="410" class="mono ink" font-size="12" font-weight="700">MEASURE</text>
+  <text x="704" y="410" class="mono muted" font-size="12">03</text><text x="754" y="410" class="mono ink" font-size="12" font-weight="700">SHIP</text>
+  <g transform="translate(956 236)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="18s" repeatCount="indefinite"/>
+      <rect x="-82" y="-82" width="164" height="164" fill="none" stroke="#111111" stroke-width="2" transform="rotate(45)"/>
+      <circle r="35" class="accent">
+        <animate attributeName="r" values="35;42;35" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.72;1" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="22" cy="-18" r="7" fill="#f6f3ed"/>
+    </g>
+  </g>
+  <circle cx="844" cy="145" r="3" class="muted"><animate attributeName="opacity" values=".15;1;.15" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1092" cy="128" r="3" class="muted"><animate attributeName="opacity" values="1;.15;1" dur="2.9s" repeatCount="indefinite"/></circle>
+  <text x="42" y="448" class="serif ink" font-size="19">Practical AI. Curious engineering. Real projects.</text>
+  <text x="42" y="474" class="sans muted" font-size="13">An AI / ML engineer building systems people can actually use.</text>
+  <text x="1050" y="474" class="mono accent" font-size="11">SCROLL ↓</text>
+  <rect x="1025" y="486" width="88" height="4" class="accent">
+    <animate attributeName="x" values="988;1025;988" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
 </svg>
