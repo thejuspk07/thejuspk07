@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+  <rect width="1600" height="520" fill="#F4F1EA"/>
+
+  <!-- Frame -->
+  <g stroke="#D9D5CC" stroke-width="1">
+    <path d="M40 40H1560M40 480H1560"/>
+    <path d="M40 40V480M1560 40V480"/>
+    <path d="M40 165H1560M40 365H1560"/>
+    <path d="M410 40V480"/>
+    <path d="M1165 40V480"/>
+  </g>
+
+  <!-- Accent rules -->
+  <rect x="40" y="40" width="115" height="5" fill="#FF4B32"/>
+  <rect x="1425" y="475" width="135" height="5" fill="#FF4B32"/>
+
+  <!-- Metadata -->
+  <text x="62" y="78" fill="#101114" font-family="Arial, Helvetica, sans-serif"
+        font-size="12" font-weight="700" letter-spacing="3.5">THEJUS PK / AI · DATA SCIENCE</text>
+  <text x="1518" y="78" text-anchor="end" fill="#6B6F75"
+        font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.8">PROFILE / 2026</text>
+
+  <!-- LEFT: name block -->
+  <text x="62" y="245" fill="#101114" font-family="Georgia, 'Times New Roman', serif"
+        font-size="78" font-weight="700" letter-spacing="-3">THEJUS</text>
+  <text x="62" y="322" fill="#101114" font-family="Georgia, 'Times New Roman', serif"
+        font-size="78" font-weight="700" letter-spacing="-3">PK<tspan fill="#FF4B32">.</tspan></text>
+
+  <text x="62" y="414" fill="#101114" font-family="Georgia, 'Times New Roman', serif"
+        font-size="17">Practical AI. Curious engineering.</text>
+  <text x="62" y="441" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif"
+        font-size="9.5" letter-spacing="1.15">B.TECH AI &amp; DATA SCIENCE · KERALA</text>
+
+  <!-- RIGHT: statement block -->
+  <text x="455" y="205" fill="#FF4B32" font-family="Arial, Helvetica, sans-serif"
+        font-size="12" font-weight="700" letter-spacing="2">I BUILD AI SYSTEMS</text>
+  <text x="455" y="244" fill="#101114" font-family="Georgia, 'Times New Roman', serif"
+        font-size="29">that turn machine-learning ideas</text>
+  <text x="455" y="280" fill="#101114" font-family="Georgia, 'Times New Roman', serif"
+        font-size="29">into useful software.</text>
+
+  <text x="455" y="316" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" letter-spacing="1.15">DOCUMENT AI · COMPUTER VISION · ANOMALY DETECTION</text>
+  <text x="455" y="337" fill="#6B6F75" font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5" letter-spacing="1.15">MACHINE LEARNING · LLM APPLICATIONS · AI AUTOMATION</text>
+
+  <!-- Process -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="1.1">
+    <text x="455" y="402" fill="#FF4B32">01</text><text x="480" y="402" fill="#101114">BUILD</text>
+    <text x="545" y="402" fill="#6B6F75">02</text><text x="570" y="402" fill="#101114">MEASURE</text>
+    <text x="650" y="402" fill="#6B6F75">03</text><text x="675" y="402" fill="#101114">ITERATE</text>
+    <text x="755" y="402" fill="#6B6F75">04</text><text x="780" y="402" fill="#101114">SHIP</text>
+  </g>
+
+  <!-- RIGHT: geometric AI mark -->
+  <g transform="translate(1360 245)">
+    <rect x="-62" y="-62" width="124" height="124" fill="none"
+          stroke="#101114" stroke-width="2" transform="rotate(45)"/>
+    <circle cx="0" cy="0" r="38" fill="#FF4B32"/>
+    <circle cx="14" cy="-13" r="7" fill="#F4F1EA"/>
+    <circle cx="-78" cy="0" r="3" fill="#FF4B32"/>
+    <circle cx="78" cy="0" r="3" fill="#FF4B32"/>
+    <path d="M-106 0H-83M83 0H106" stroke="#101114" stroke-width="2"/>
+  </g>
+
+  <!-- Footer -->
+  <text x="1518" y="444" text-anchor="end" fill="#6B6F75"
+        font-family="monospace" font-size="9">THEJUSPK07 / BUILD · SHIP · LEARN</text>
+</svg>
