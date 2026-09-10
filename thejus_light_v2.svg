@@ -1,87 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1800" height="560" viewBox="0 0 1800 560">
-  <!-- THEJUS PK — minimal editorial AI banner -->
-  <rect width="1800" height="560" fill="#F4F1EA"/>
-
-  <!-- quiet editorial grid -->
-  <g stroke="#D8D4CB" stroke-width="1" opacity="0.72">
-    <path d="M48 48H1752M48 512H1752"/>
-    <path d="M48 48V512M1752 48V512"/>
-    <path d="M430 48V512M1215 48V512"/>
-    <path d="M48 176H1752M48 392H1752"/>
-  </g>
-
-  <!-- small animated accent bars -->
-  <rect x="48" y="48" width="118" height="5" rx="2.5" fill="#FF4B32">
-    <animate attributeName="width" values="118;178;118" dur="7s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="1602" y="507" width="150" height="5" rx="2.5" fill="#FF4B32">
-    <animate attributeName="x" values="1602;1560;1602" dur="9s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- header -->
-  <text x="72" y="88" fill="#17181A" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3.8">THEJUS PK / AI · ML · SYSTEMS</text>
-  <text x="1728" y="88" text-anchor="end" fill="#73766F" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">PROFILE / 2026</text>
-
-  <!-- identity -->
-  <text x="72" y="274" fill="#151619" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="700" letter-spacing="-4">THEJUS</text>
-  <text x="72" y="354" fill="#151619" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="700" letter-spacing="-4">PK<tspan fill="#FF4B32">.</tspan></text>
-
-  <text x="72" y="442" fill="#151619" font-family="Georgia, 'Times New Roman', serif" font-size="18">Practical AI. Curious engineering.</text>
-  <text x="72" y="468" fill="#73766F" font-family="Arial, Helvetica, sans-serif" font-size="9.5" letter-spacing="1.25">AI &amp; DATA SCIENCE · KERALA · BUILDING USEFUL SOFTWARE</text>
-
-  <!-- central statement -->
-  <text x="486" y="208" fill="#FF4B32" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2.4">I BUILD AI SYSTEMS</text>
-  <text x="486" y="254" fill="#151619" font-family="Georgia, 'Times New Roman', serif" font-size="31">that turn machine-learning ideas</text>
-  <text x="486" y="292" fill="#151619" font-family="Georgia, 'Times New Roman', serif" font-size="31">into useful software.</text>
-
-  <text x="486" y="336" fill="#73766F" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.05">DOCUMENT AI · COMPUTER VISION · MACHINE LEARNING</text>
-  <text x="486" y="358" fill="#73766F" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.05">LLM APPLICATIONS · AUTOMATION · INTELLIGENT SYSTEMS</text>
-
-  <!-- restrained process line -->
-  <g font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="1.3">
-    <text x="486" y="424" fill="#FF4B32">01</text><text x="512" y="424" fill="#151619">BUILD</text>
-    <text x="584" y="424" fill="#73766F">02</text><text x="610" y="424" fill="#151619">LEARN</text>
-    <text x="680" y="424" fill="#73766F">03</text><text x="706" y="424" fill="#151619">ITERATE</text>
-    <text x="792" y="424" fill="#73766F">04</text><text x="818" y="424" fill="#151619">SHIP</text>
-  </g>
-
-  <!-- minimal animated emblem -->
-  <g transform="translate(1500 280)">
-    <!-- gentle breathing of the complete mark -->
-    <animateTransform attributeName="transform" type="translate" values="1500 280;1496 276;1503 283;1500 280" dur="10s" repeatCount="indefinite"/>
-
-    <!-- diamond / crest outline -->
-    <g>
-      <animateTransform attributeName="transform" type="rotate" values="-1.5;1.5;-1.5" dur="22s" repeatCount="indefinite"/>
-      <rect x="-76" y="-76" width="152" height="152" fill="none" stroke="#17181A" stroke-width="1.7" transform="rotate(45)"/>
-    </g>
-
-    <!-- central accent -->
-    <circle cx="0" cy="0" r="39" fill="#FF4B32">
-      <animate attributeName="r" values="39;44;39" dur="4.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.92;1;0.92" dur="4.5s" repeatCount="indefinite"/>
-    </circle>
-
-    <!-- inner spark -->
-    <circle cx="12" cy="-13" r="7" fill="#F4F1EA">
-      <animateTransform attributeName="transform" type="translate" values="0 0;4 -3;1 -5;-3 -2;0 0" dur="6s" repeatCount="indefinite"/>
-    </circle>
-
-    <!-- tiny orbit marks -->
-    <circle cx="-103" cy="0" r="3" fill="#FF4B32">
-      <animate attributeName="cy" values="0;-9;0;9;0" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.35;1;0.45;1;0.35" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="103" cy="0" r="3" fill="#FF4B32">
-      <animate attributeName="cy" values="0;9;0;-9;0" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.4;1;0.45;1" dur="7s" repeatCount="indefinite"/>
-    </circle>
-
-    <path d="M-128 0H-108M108 0H128" fill="none" stroke="#17181A" stroke-width="1.7">
-      <animate attributeName="d" values="M-128 0H-108M108 0H128;M-134 0H-108M108 0H134;M-128 0H-108M108 0H128" dur="8s" repeatCount="indefinite"/>
-    </path>
-  </g>
-
-  <!-- footer -->
-  <text x="1728" y="472" text-anchor="end" fill="#73766F" font-family="monospace" font-size="9">THEJUSPK07 / BUILD · SHIP · LEARN</text>
+<rect width="1800" height="560" fill="#F4F1EA"/>
+<g fill="none" stroke="#D7D3CB" stroke-width="1"><path d="M32 34H1768M32 526H1768M32 34V526M1768 34V526"/><path d="M410 34V526M1260 34V526"/><path d="M32 142H1768M32 424H1768"/></g>
+<rect x="55" y="34" width="125" height="4" rx="2" fill="#FF4B32"><animate attributeName="width" values="125;190;125" dur="7s" repeatCount="indefinite"/></rect>
+<rect x="1600" y="522" width="168" height="4" rx="2" fill="#FF4B32"><animate attributeName="x" values="1600;1550;1600" dur="9s" repeatCount="indefinite"/></rect>
+<path d="M32 426 Q250 390 430 425 T850 423 T1260 426 T1768 418 V526H32Z" fill="#E8E5DE"/><path d="M32 451 Q230 416 430 449 T850 446 T1260 450 T1768 442 V526H32Z" fill="#F9F8F4"/>
+<text x="64" y="82" fill="#161719" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="3.6">THEJUS PK / AI · ML ENGINEER</text>
+<text x="64" y="273" fill="#121315" font-family="Georgia,'Times New Roman',serif" font-size="82" font-weight="700" letter-spacing="-4">THEJUS</text><text x="64" y="354" fill="#121315" font-family="Georgia,'Times New Roman',serif" font-size="82" font-weight="700" letter-spacing="-4">PK<tspan fill="#FF4B32">.</tspan></text>
+<text x="66" y="407" fill="#222428" font-family="Georgia,'Times New Roman',serif" font-size="18">Building AI that works.</text><text x="66" y="445" fill="#73777D" font-family="monospace" font-size="10" letter-spacing="1.7">PRACTICAL AI</text><text x="66" y="466" fill="#73777D" font-family="monospace" font-size="10" letter-spacing="1.7">CURIOUS ENGINEERING</text>
+<g transform="translate(76 214)"><path d="M0 25 Q18 -8 57 -16 Q46 2 38 28Z" fill="#E83325"/><path d="M0 25 Q19 18 40 25 Q29 38 4 35Z" fill="#FFFDF8"/><circle cx="57" cy="-16" r="8" fill="#FFFDF8"/></g>
+<g><path d="M52 495 L52 451 L92 432 L132 451 L132 495Z" fill="#B9B4AA"/><path d="M44 453 L92 425 L140 453 L132 460 L92 438 L52 460Z" fill="#6F7479"/><rect x="82" y="463" width="18" height="32" fill="#A45A3E"/><rect x="57" y="465" width="15" height="13" fill="#F3B95F"/><rect x="108" y="465" width="15" height="13" fill="#F3B95F"/><g fill="#65747A"><path d="M154 496 L178 440 L202 496Z"/><path d="M183 496 L211 426 L239 496Z"/><path d="M265 496 L289 444 L313 496Z"/></g></g>
+<text x="462" y="185" fill="#FF4B32" font-family="monospace" font-size="10" letter-spacing="2.4">01</text><line x1="500" y1="181" x2="1138" y2="181" stroke="#4C5055"/><text x="1158" y="185" fill="#73777D" font-family="monospace" font-size="10" letter-spacing="1.8">AI SYSTEMS</text>
+<text x="462" y="244" fill="#151619" font-family="Georgia,'Times New Roman',serif" font-size="34">that turn machine-learning ideas</text><text x="462" y="284" fill="#151619" font-family="Georgia,'Times New Roman',serif" font-size="34">into useful software.<tspan fill="#FF4B32">|</tspan><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></text>
+<text x="462" y="333" fill="#85898E" font-family="monospace" font-size="9.5" letter-spacing="1.0">DOCUMENT AI · COMPUTER VISION · MACHINE LEARNING · LLMs · AUTOMATION</text>
+<g font-family="monospace" font-size="10" letter-spacing="1.5" fill="#222428"><text x="462" y="378">◉  GITHUB</text><text x="650" y="378">▣  LINKEDIN</text><text x="858" y="378">◎  PORTFOLIO</text><text x="1080" y="378">✉  GMAIL</text></g>
+<g opacity=".9"><path d="M1275 445 L1390 330 L1490 438 L1585 350 L1768 454 V526H1275Z" fill="#D6D9D9"/><path d="M1310 445 L1390 366 L1455 445 L1585 382 L1715 462 V526H1310Z" fill="#F8F7F3"/><g fill="#78838A"><path d="M1288 500 L1312 447 L1336 500Z"/><path d="M1350 500 L1376 438 L1402 500Z"/><path d="M1660 500 L1684 445 L1708 500Z"/><path d="M1730 500 L1750 458 L1770 500Z"/></g></g>
+<g transform="translate(1690 378)"><path d="M0 0V128" stroke="#654B3B" stroke-width="7"/><rect x="-58" y="0" width="116" height="29" rx="3" fill="#7A5A43"/><rect x="-58" y="34" width="116" height="29" rx="3" fill="#7A5A43"/><rect x="-58" y="68" width="116" height="29" rx="3" fill="#7A5A43"/><text x="0" y="20" text-anchor="middle" fill="#FFF8E8" font-family="monospace" font-size="9">BUILD</text><text x="0" y="54" text-anchor="middle" fill="#FFF8E8" font-family="monospace" font-size="9">SHIP</text><text x="0" y="88" text-anchor="middle" fill="#FFF8E8" font-family="monospace" font-size="9">LEARN</text></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;18 -3;0 0;-18 3;0 0" dur="2.8s" repeatCount="indefinite"/><g stroke="#FF4B32" stroke-linecap="round" opacity=".55"><path d="M1300 312H1360"><animate attributeName="x1" values="1300;1275;1300" dur="1.4s" repeatCount="indefinite"/></path><path d="M1285 332H1350"><animate attributeName="x1" values="1285;1255;1285" dur="1.7s" repeatCount="indefinite"/></path></g><path d="M1365 292 Q1425 258 1474 310 Q1488 355 1438 373 Q1380 369 1354 335Z" fill="#8D2630"/><path d="M1370 293 Q1410 270 1444 291" fill="none" stroke="#F2D9C8" stroke-width="5"/><g><rect x="1400" y="281" width="29" height="24" fill="#3C6F75" transform="rotate(-8 1415 293)"/><path d="M1415 280V307M1400 293H1429" stroke="#EBC35D" stroke-width="4"/><rect x="1430" y="289" width="27" height="22" fill="#B66A3D" transform="rotate(7 1444 300)"/></g><g transform="translate(1418 267)"><rect x="-22" y="-23" width="44" height="36" rx="10" fill="#D9DEE0" stroke="#34383D" stroke-width="2"/><circle cx="-8" cy="-5" r="4" fill="#FF4B32"/><circle cx="8" cy="-5" r="4" fill="#FF4B32"/><path d="M0 -23V-31" stroke="#34383D" stroke-width="2"/><circle cx="0" cy="-34" r="4" fill="#FF4B32"/></g><path d="M1490 286 Q1520 268 1548 292 L1570 354 L1518 360 L1486 327Z" fill="#D52F25"/><path d="M1491 305 Q1518 324 1548 309" fill="none" stroke="#FFF7EA" stroke-width="10"/><circle cx="1535" cy="272" r="30" fill="#F0C4A5"/><path d="M1510 268 Q1535 244 1560 265 L1552 282 Q1530 292 1510 279Z" fill="#FFF7EA"/><path d="M1505 262 Q1525 231 1560 244 L1574 252 Q1550 266 1524 260Z" fill="#D52F25"/><circle cx="1568" cy="249" r="7" fill="#FFF7EA"/><circle cx="1548" cy="270" r="3" fill="#171719"/><path d="M1550 282 Q1562 288 1571 281" fill="none" stroke="#6C3830" stroke-width="2"/><path d="M1500 301 Q1475 310 1460 333" fill="none" stroke="#D52F25" stroke-width="17" stroke-linecap="round"/><circle cx="1458" cy="335" r="8" fill="#4B2D25"/><path d="M1550 302 Q1580 294 1592 312" fill="none" stroke="#D52F25" stroke-width="17" stroke-linecap="round"/><circle cx="1595" cy="313" r="8" fill="#4B2D25"/><path d="M1519 349 Q1492 378 1467 397" fill="none" stroke="#D52F25" stroke-width="18" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="0 1519 349;10 1519 349;0 1519 349;-10 1519 349;0 1519 349" dur=".85s" repeatCount="indefinite"/></path><path d="M1545 349 Q1570 376 1598 391" fill="none" stroke="#D52F25" stroke-width="18" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="0 1545 349;-10 1545 349;0 1545 349;10 1545 349;0 1545 349" dur=".85s" repeatCount="indefinite"/></path><path d="M1468 397L1451 400M1598 391L1616 395" stroke="#4B2D25" stroke-width="10" stroke-linecap="round"/><path d="M1492 298 Q1455 286 1418 307 Q1455 312 1482 326" fill="none" stroke="#D52F25" stroke-width="10" stroke-linecap="round"><animate attributeName="d" values="M1492 298 Q1455 286 1418 307 Q1455 312 1482 326;M1492 298 Q1450 268 1410 292 Q1448 310 1480 326;M1492 298 Q1455 286 1418 307 Q1455 312 1482 326" dur="1.8s" repeatCount="indefinite"/></path><g fill="#FFFFFF" opacity=".85"><circle cx="1450" cy="404" r="5"><animate attributeName="cx" values="1450;1425;1398" dur="1.2s" repeatCount="indefinite"/></circle><circle cx="1470" cy="412" r="3"><animate attributeName="cx" values="1470;1440;1415" dur="1.4s" repeatCount="indefinite"/></circle><circle cx="1608" cy="405" r="4"><animate attributeName="cx" values="1608;1632;1650" dur="1.3s" repeatCount="indefinite"/></circle></g></g>
+<g fill="#C8CDD0" opacity=".75"><circle cx="370" cy="92" r="3"><animate attributeName="cy" values="92;132;92" dur="5s" repeatCount="indefinite"/></circle><circle cx="720" cy="72" r="2.5"><animate attributeName="cy" values="72;122;72" dur="6s" repeatCount="indefinite"/></circle><circle cx="1040" cy="105" r="3"><animate attributeName="cy" values="105;155;105" dur="5.4s" repeatCount="indefinite"/></circle><circle cx="1210" cy="65" r="2"><animate attributeName="cy" values="65;118;65" dur="4.8s" repeatCount="indefinite"/></circle><circle cx="160" cy="115" r="2"><animate attributeName="cy" values="115;168;115" dur="6.2s" repeatCount="indefinite"/></circle></g>
+<text x="64" y="493" fill="#74787E" font-family="monospace" font-size="9" letter-spacing="1.5">KERALA, INDIA</text><text x="1736" y="493" text-anchor="end" fill="#74787E" font-family="monospace" font-size="9" letter-spacing="1.5">WINTER / BUILD · SHIP · LEARN · ITERATE</text>
 </svg>
